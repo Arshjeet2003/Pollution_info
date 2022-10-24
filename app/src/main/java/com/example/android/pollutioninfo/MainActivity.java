@@ -13,6 +13,7 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+//This is the main activity
 public class MainActivity extends AppCompatActivity{
     TextView textView;
     Button button;

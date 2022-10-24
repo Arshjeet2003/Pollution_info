@@ -19,6 +19,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.nio.charset.Charset;
 
+//This is pollutionInfo class
 public class Pollutioninfo {
 
     private static final String LOG_TAG = Pollutioninfo.class.getSimpleName();
